@@ -15,8 +15,6 @@ df.head()
 
 df.shape
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 """###Exploratory Data Analysis(EDA)"""
 
